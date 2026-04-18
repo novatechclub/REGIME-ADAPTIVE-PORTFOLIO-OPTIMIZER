@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data & model artifacts (per spec section 8)
+*.csv
+*.pkl
+*.pickle
+*.parquet
+
+# Generated outputs
+results/figures/*.png
+results/metrics.csv
+models/*.pkl
+
+# Keep folder placeholders
+!.gitkeep
+!requirements.txt

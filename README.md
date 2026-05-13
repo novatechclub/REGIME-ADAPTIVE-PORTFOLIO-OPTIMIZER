@@ -1,7 +1,7 @@
 # Regime-Adaptive Portfolio Optimizer
 
 A quantitative framework for regime-conditioned allocation and capacity stress testing.
-Nova Tech Club | 
+
 ## Project Team
 
 | Name | Role |

@@ -1,7 +1,15 @@
 # Regime-Adaptive Portfolio Optimizer
 
 A quantitative framework for regime-conditioned allocation and capacity stress testing.
-Nova Tech Club | Team: Alessandro De Riccardis, Moritz, Max | 2025
+Nova Tech Club | 
+## Project Team
+
+| Name | Role |
+|---|---|
+| Sengul Seyda Yilmaz | Project Supervisor, Team Lead of the Tech & Innovation Department |
+| Moritz Martin Bauer | Finance Project Team Member |
+| Maximilian Haussmann | Finance Project Team Member |
+| Alessandro De Riccardis | Finance Project Team Member |
 
 ## Overview
 
